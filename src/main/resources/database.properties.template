@@ -1,0 +1,6 @@
+# Database Configuration Template
+# Copy this file and update with your actual database credentials
+
+db.url=jdbc:mysql://localhost:3306/order_management_system
+db.username=your_username
+db.password=your_password
